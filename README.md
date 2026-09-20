@@ -122,7 +122,7 @@ NetScope is local-first:
 
 Full details in the [Security Policy](https://github.com/Itz-Npg/netscope-source/blob/main/SECURITY.md).
 
-## Support
+## Support.
 
 - Found a bug or want a feature? [Open an issue](https://github.com/Itz-Npg/netscope/issues).
 - Troubleshooting tips live in the
